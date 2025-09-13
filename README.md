@@ -58,7 +58,9 @@ LoginProject1/
 ## 🖼️ Application Screenshots
 
 ### 🏠 Home Page  
-![Home Page](https://raw.githubusercontent.com/Soumyadip012/Login_Project_Servlet/main/Screenshot%202025-09-14%20012529.png)  
+
+<img width="1349" height="563" alt="Screenshot 2025-09-14 012438" src="https://github.com/user-attachments/assets/2a0565e0-282a-4241-9a75-138da4724590" />
+
 *Welcome page with navigation to login and registration*
 
 ---
